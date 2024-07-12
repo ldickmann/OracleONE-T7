@@ -1,0 +1,53 @@
+/*** Exercícios 2 de HTML e CSS ***/
+* {
+    margin: 0;
+    padding: 0;
+    border: 2px solid black;
+}
+
+/*** Item 1 ***/
+body {
+    height: 100vh;
+    background-color: #3b5a52;
+    box-sizing: border-box; /*** Item 2 ***/    
+}
+.titulo-one {
+    color: #000000;
+}
+.dimensionamento-css{
+    color: #fef728;
+}
+.vinteedois {
+    color: #e89191;
+}
+
+/*** Item 3 ***/
+.sem-scroll {
+    display: flex;
+    align-items: center;
+    background-color: #000000;
+    color: white;
+}
+
+/*** Item 4 ***/
+.container {
+    display: flex;
+    align-items: center;
+}
+
+/*** Item 5 ***/
+.container-edit {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100px;
+    background-color: #000000;
+    color: #fef728;
+    justify-content: space-around;
+}
+/*** Item 6 ***/
+.responsivo-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
