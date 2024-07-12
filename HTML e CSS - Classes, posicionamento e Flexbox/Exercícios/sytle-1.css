@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 2px solid black;
+}
+
+.texto-destaque {
+    color: #3b5a52;
+}
+
+.titulo-blog {
+    color: blueviolet;
+}
+
+.urgente {
+    color: red;
+}
