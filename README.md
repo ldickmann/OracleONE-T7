@@ -15,12 +15,12 @@
 * **Módulo:** Lógica de programação: mergulhe em programação com JavaScript
 * **Módulo:** Lógica de programação: explore funções e listas
 * **Módulo:** ChatGPT: otimizando a qualidade dos resultados
-* **HTML e CSS:** ambientes de desenvolvimento, estrutura de arquivos e tags
+* **HTML e CSS:** Ambientes de desenvolvimento, estrutura de arquivos e tags
+* **HTML e CSS:** Classes, posicionamento e Flexbox
 
 ### Módulo em Andamento
 
-
-* **HTML e CSS:** Classes, posicionamento e Flexbox
+* **HTML e CSS:** Cabeçalho, footer e variáveis CSS
 
 
 ## Diretórios
