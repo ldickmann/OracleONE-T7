@@ -25,6 +25,8 @@
 
 ## Diretórios
 * Os diretórios estão divididos em pastas dos módulos do curso Formação Iniciante em Programação.
+* Em cada pasta terá os arquivos utilizados nas aulas, em que fui acompanhando e editando conforme os professores.
+* Os módulos tem exercícios, estes ficam na pasta "Exercícios", onde está especificado por numeração crescente a ordem dos mesmos.
 
 ### Atualmente o programa está na Fase 2.
 

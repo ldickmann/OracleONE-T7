@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    box-sizing: border-box;
+    background-color: #000000;
+    color: #F6F6F6;
+}
+.cabecalho {
+    padding: 2% 0% 0% 15%;
+}
+.cabecalho__menu {
+    display: flex;
+    gap: 80px;
+}
+.cabecalho__menu__link {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-size: 600;
+    color: #06a357;
+    text-decoration: none;
+}
+.cabecalho__menu__link:hover {
+    color: #ffffff;
+    transition: 0.5s;
+}
+.apresentacao {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5% 15%;
+}
+.apresentacao__conteudo {
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.apresentacao__conteudo__titulo {
+    font-size: 36px;
+    font-family: "Krona One", sans-serif;
+}
+.titulo-destaque {
+    color: #06a357;
+}
+.apresentacao__conteudo__paragrafo {
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+}
+.apresentacao__conteudo__links {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+.apresentacao__links__subtitulo {
+    font-family: "Krona One", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+.apresentacao__btn__link {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    width: 550px;
+    text-align: center;
+    border: 2px solid #06a357;
+    border-radius: 8px;
+    font-size: 24px;
+    padding: 21.5px 0;
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "Montserrat", sans-serif;
+}
+.apresentacao__btn__link:hover {
+    background-color: #06a357;
+    transition: 0.5s;
+}
+.foto-luks {
+    width: 515px;
+    height: 515px;
+    border-radius: 10%;
+}
+.apresentacao__lista {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+.apresentacao__lista__cursos {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
+.lista__titulo{
+    font-family: "Krona One", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+.lista__ordenada {
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #06a357;
+}
+.rodape {
+    padding: 24px;
+    color: #000000;
+    background-color: #06a357;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}

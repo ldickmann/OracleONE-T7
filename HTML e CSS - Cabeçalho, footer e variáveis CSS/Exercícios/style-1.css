@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: #000000;
+    color: #F6F6F6;
+}
+.titulo-destaque {
+    color: #F2C438
+}
+.apresentacao {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10% 15%
+}
+.apresentacao__conteudo {
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.apresentacao__conteudo__titulo {
+    font-size: 36px;
+    font-family: "Krona One", sans-serif;
+}
+.apresentacao__conteudo__paragrafo {
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+}
+.apresentacao__conteudo__links {
+    display: flex;
+    flex-direction: column; /* --- Item 2 da lista de exercícios --- */
+    justify-content: space-between;
+    align-items: center; /* --- Item 3 da lista de exercícios --- */
+    gap: 32px;
+}
+.apresentacao__subtitulo { /* --- Item 5 da lista de exercícios --- */
+    font-family: "Krona One", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+/* ATALHO PARA COMENTAR = Ctrl+k+c */
+.apresentacao__btn__link {  /* --- Item 6 da lista de exercícios --- */
+    width: 378px;
+    text-align: center;
+    border: 2px solid #F2C438;
+    border-radius: 8px; 
+    font-size: 24px;
+    padding: 21.5px 0;
+    text-decoration: none;
+    color: #F6F6F6;
+    font-weight: 600;
+    font-family: "Montserrat", sans-serif;
+}
+.img-hamb {
+    width: 615px;
+    height: 615px;
+    border-radius: 10%;
+}
