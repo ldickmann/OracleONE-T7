@@ -9,7 +9,6 @@
     --font-primaria: "Krona One", sans-serif;
     --font-secundaria: "Montserrat", sans-serif;
 }
-
 * {
     margin: 0;
     padding: 0;
@@ -41,88 +40,33 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 4.88% 15%;
+    padding: 6% 15%;
 }
 .apresentacao__conteudo {
     width: 615px;
     display: flex;
     flex-direction: column;
-    gap: 30px;
+    gap: 40px;
+    text-align: center;
 }
 .apresentacao__conteudo__titulo {
-    font-size: 27px;
+    font-size: 36px;
     font-family: var(--font-primaria);
-}
-.titulo-destaque {
-    color: var(--cor-terciaria);
+    color: var(--cor-secundaria);
 }
 .apresentacao__conteudo__paragrafo {
     font-size: 18px;
     font-family: var(--font-secundaria);
-}
-.apresentacao__conteudo__links {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    gap: 20px;
-}
-.apresentacao__links__subtitulo {
-    font-family: var(--font-primaria);
     font-weight: 400;
-    font-size: 20px;
-}
-.apresentacao__btn__link {
-    display: flex;
-    justify-content: center;
-    gap: 16px;
-    width: 550px;
     text-align: center;
-    border: 2px solid var(--cor-terciaria);
-    border-radius: 8px;
-    font-size: 20px;
-    padding: 21.5px 0;
-    text-decoration: none;
-    color: var(--cor-secundaria);
-    font-weight: 600;
-    font-family: var(--font-secundaria);
-}
-.apresentacao__btn__link:hover {
-    background-color: var(--cor-hover);
-    transition: 0.5s;
-}
-.foto-luks {
-    width: 515px;
-    height: 515px;
-    border-radius: 10%;
-}
-.apresentacao__lista {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    gap: 20px;
-}
-.apresentacao__lista__cursos {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    gap: 40px;
-}
-.lista__titulo{
-    font-family: var(--font-primaria);
-    font-weight: 400;
-    font-size: 20px;
-}
-.lista__ordenada {
-    font-family: var(--font-secundaria);
-    font-size: 18px;
-    font-weight: 600;
     color: var(--cor-terciaria);
 }
+.foto-logo {
+    border-radius: 5%;
+    margin: 0% 0% 0% 15%;
+}
 .rodape {
-    padding: 24px;
+    padding: 1.3%;
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
     text-align: center;

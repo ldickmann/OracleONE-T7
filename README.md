@@ -17,10 +17,11 @@
 * **Módulo:** ChatGPT: otimizando a qualidade dos resultados
 * **HTML e CSS:** Ambientes de desenvolvimento, estrutura de arquivos e tags
 * **HTML e CSS:** Classes, posicionamento e Flexbox
+* **HTML e CSS:** Cabeçalho, footer e variáveis CSS
 
 ### Módulo em Andamento
 
-* **HTML e CSS:** Cabeçalho, footer e variáveis CSS
+* **HTML e CSS:** Trabalhando com responsividade e publicação de projetos
 
 
 ## Diretórios
