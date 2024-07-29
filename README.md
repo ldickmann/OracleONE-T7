@@ -31,9 +31,11 @@
 
 ### Desafio Challenge: Decodificador de texto concluído.
 ---
-Link do repositório: https://github.com/ldickmann/Challenge-ONE-2024
-Link do decodificador: https://ldickmann.github.io/Challenge-ONE-2024/
+
+- Link do repositório: https://github.com/ldickmann/Challenge-ONE-2024
+- Link do decodificador: https://ldickmann.github.io/Challenge-ONE-2024/
 
 
-### Linkedin
-https://www.linkedin.com/in/lucas-dickmann
+### Minhas redes sociais:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-dickmann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luksdickmann) 
