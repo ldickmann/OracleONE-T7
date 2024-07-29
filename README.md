@@ -29,6 +29,11 @@
 * Em cada pasta terá os arquivos utilizados nas aulas, em que fui acompanhando e editando conforme os professores.
 * Os módulos tem exercícios, estes ficam na pasta "Exercícios", onde está especificado por numeração crescente a ordem dos mesmos.
 
-### Atualmente o programa está na Fase 2.
+### Desafio Challenge: Decodificador de texto concluído.
+---
+Link do repositório: https://github.com/ldickmann/Challenge-ONE-2024
+Link do decodificador: https://ldickmann.github.io/Challenge-ONE-2024/
 
+
+### Linkedin
 https://www.linkedin.com/in/lucas-dickmann
