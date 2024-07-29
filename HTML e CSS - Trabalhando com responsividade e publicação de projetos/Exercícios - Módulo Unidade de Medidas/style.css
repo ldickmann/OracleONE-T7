@@ -1,0 +1,71 @@
+ /* --- Exercícios do módulo 1 "Unidade de medidas" --- */
+
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: #000000;
+    color: #F6F6F6;
+}
+.titulo-destaque {
+    color: #F2C438
+}
+.apresentacao {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10% 15%;
+}
+.apresentacao__conteudo {
+    width: 38.44rem; /* --- Item 4 da lista de exercícios --- */
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem; /* --- Item 4 da lista de exercícios --- */
+}
+.apresentacao__conteudo__titulo {
+    font-size: 2.25rem; /* --- Item 1 da lista de exercícios --- */
+    font-family: "Krona One", sans-serif;
+}
+.apresentacao__conteudo__paragrafo {
+    font-size: 1.5rem; /* --- Item 2 da lista de exercícios --- */
+    font-family: "Montserrat", sans-serif;
+}
+.apresentacao__conteudo__links {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 32px;
+}
+.apresentacao__subtitulo {
+    font-family: "Krona One", sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem; /* --- Item 2 da lista de exercícios --- */
+}
+.apresentacao__links__link {
+    display: flex;
+    justify-content: center;
+    gap: 1rem; /* --- Item 4 da lista de exercícios --- */
+    width: 23.6rem; /* --- Item 4 da lista de exercícios --- */
+    text-align: center;
+    border: 0.12rem solid #0000FF; /* --- Item 4 da lista de exercícios --- */
+    font-size: 1.5rem; /* --- Item 2 da lista de exercícios --- */
+    padding: 21.5px 0;
+    text-decoration: none;
+    color: #F6F6F6;
+    font-weight: 600;
+    font-family: "Montserrat", sans-serif;
+}
+.apresentacao__links__link:hover {
+    background-color: #272727;
+}
+.img-hamb {
+    width: 34.70rem; /* --- Item 4 da lista de exercícios --- */
+    height: 34.70rem; /* --- Item 4 da lista de exercícios --- */
+    border-radius: 10%;
+}
