@@ -18,10 +18,11 @@
 * **HTML e CSS:** Ambientes de desenvolvimento, estrutura de arquivos e tags
 * **HTML e CSS:** Classes, posicionamento e Flexbox
 * **HTML e CSS:** Cabeçalho, footer e variáveis CSS
+* **HTML e CSS:** Trabalhando com responsividade e publicação de projetos
 
 ### Módulo em Andamento
 
-* **HTML e CSS:** Trabalhando com responsividade e publicação de projetos
+* **Git e Github:** Compartilhando e colaborando em projetos
 
 
 ## Diretórios
