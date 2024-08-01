@@ -1,1 +1,1 @@
-Arquivos seguindo as aulas do curso - HTML e CSS: ambientes de desenvolvimentos, estrutura de arquivos e tags
+Arquivos seguindo as aulas do curso - HTML e CSS: ambientes de desenvolvimentos, estrutura de arquivos e tags.
