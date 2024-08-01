@@ -38,5 +38,10 @@ Módulo 4:
 - Comando para apagar um commit git reset --hard 'id do commit anterior', esse "hard" apaga o commit e a mudança no código.
 - Comando para alteração do último commit, porém sem a necessidade de apagá-lo: git commit --amend -m "mensagem atualizada/certa".
 
+Módulo 5:
+
+- Importância do README no repositório, a criação do mesmo e a formatação markdown.
+- Ignorando arquivos no repositório com o ".gitignore".
+
 ---
 <h2 align="center">Aluno: Lucas E. Dickmann</h2>
