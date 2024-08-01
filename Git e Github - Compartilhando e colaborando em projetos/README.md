@@ -1,6 +1,6 @@
-# Programa ONE | Oracle | Alura
+<h1 align="center">Programa ONE | Oracle | Alura</h1>
 
-## Git e Github: Compartilhando e colaborando em projetos
+<h2 align="center">Git e Github: Compartilhando e colaborando em projetos</h2>
 
 ---
 Diretórios:
@@ -39,4 +39,4 @@ Módulo 4:
 - Comando para alteração do último commit, porém sem a necessidade de apagá-lo: git commit --amend -m "mensagem atualizada/certa".
 
 ---
-Aluno Lucas E. Dickmann
+<h2 align="center">Aluno: Lucas E. Dickmann</h2>
