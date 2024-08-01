@@ -22,7 +22,10 @@ Módulo 1:
 Módulo 2:
 
 - Clonar repositórios, remotamente acessando o repositório e em <> code -> clone -> https://"endereço-do-repositório".
-- Comandos utilizados e aprendidos: git clone, git status, git commit, 
+- Visualização de arquivos modificados no repositório local.
+- Aletarações na configuração do reporitório  para adicionar colaboradores no projeto.
+- Comandos utilizados e aprendidos: git clone, git status, git commit, git log, git remote, git push e git pull.
+- Fluxo de trabalho.
 
 
 
