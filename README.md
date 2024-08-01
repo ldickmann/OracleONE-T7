@@ -1,4 +1,4 @@
-# Programa ONE - Oracle Next Education 2024 - Oracle & Alura
+# Programa ONE | Oracle Next Education 2024 | Oracle & Alura
 
 ## Formação Desenvolvimento Pessoal - Concluído
 
