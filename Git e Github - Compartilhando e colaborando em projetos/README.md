@@ -10,7 +10,7 @@ Diretórios:
 ---
 Conhecimentos de Git e Github
 
----
+
 Módulo 1:
 
 - Criar conta Github
@@ -18,3 +18,6 @@ Módulo 1:
 - Criação de chave SSH
 - Criar repositório remoto no Github
 - Conectar o repositório local com o repositório remoto, utilizando comandos: git init, git add, git comit, git remote add e git push.
+
+---
+## Aluno Lucas E. Dickmann
