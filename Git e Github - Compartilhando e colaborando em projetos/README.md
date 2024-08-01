@@ -41,7 +41,8 @@ Módulo 4:
 Módulo 5:
 
 - Importância do README no repositório, a criação do mesmo e a formatação markdown.
-- Ignorando arquivos no repositório com o ".gitignore".
+- Ignorando arquivos no repositório com a criação do arquivo oculto ".gitignore".
+- Compartilhamento de trechos de códigos com o GitHub Gist.
 
 ---
 <h2 align="center">Aluno: Lucas E. Dickmann</h2>

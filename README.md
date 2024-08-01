@@ -7,8 +7,7 @@
 * **Módulo:** Foco: trazendo mais resultados para o dia a dia
 * **Módulo:** Hábitos: da produtividade às metas pessoais
 
-
-## Formação Iniciante em Programação T7 - Em Andamento
+## Formação Iniciante em Programação T7 - Concluído
 
 ### Módulos Concluídos
 
@@ -19,9 +18,6 @@
 * **HTML e CSS:** Classes, posicionamento e Flexbox
 * **HTML e CSS:** Cabeçalho, footer e variáveis CSS
 * **HTML e CSS:** Trabalhando com responsividade e publicação de projetos
-
-### Módulo em Andamento
-
 * **Git e Github:** Compartilhando e colaborando em projetos
 
 ## Diretórios
