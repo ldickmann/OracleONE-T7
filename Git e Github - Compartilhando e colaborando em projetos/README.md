@@ -1,6 +1,6 @@
 # Programa ONE | Oracle | Alura
 
-## Git e Github: Compartilhando e colaborando em projetos.
+## Git e Github: Compartilhando e colaborando em projetos
 
 ---
 Diretórios:
@@ -9,7 +9,6 @@ Diretórios:
 
 ---
 Conhecimentos de Git e Github
-
 
 Módulo 1:
 
@@ -27,7 +26,11 @@ Módulo 2:
 - Comandos utilizados e aprendidos: git clone, git status, git commit, git log, git remote, git push e git pull.
 - Fluxo de trabalho.
 
+Módulo 3:
 
+- Utilização da interface gráfica, exemplos do plugin Github no VS Code.
+- Situações de conflito, onde houve alterações e commit de um cotribuidor e outro faz a mesma alteração e commit.
+- Resolução do conflito através do Merge Editor e resolução manual.
 
 ---
 ## Aluno Lucas E. Dickmann
