@@ -2,14 +2,16 @@
 
 ## Formações Iniciais: 
 
-- Formação Desenvolvimento Pessoal - Concluído
+#### Formação Desenvolvimento Pessoal - Concluído
 
 * **Módulo:** Aprender a aprender: técnicas para seu autodesenvolvimento
 * **Módulo:** LinkedIn: como fazer o seu perfil trabalhar para você
 * **Módulo:** Foco: trazendo mais resultados para o dia a dia
 * **Módulo:** Hábitos: da produtividade às metas pessoais
 
-- Formação Iniciante em Programação T7 - Concluído
+![Certificado - Desenvolvimento Pessoal T7 - ONE](https://github.com/user-attachments/assets/c37b84b3-7067-4920-b85d-22992ada4e6d)
+
+#### Formação Iniciante em Programação T7 - Concluído
 
 * **Módulo:** Lógica de programação: mergulhe em programação com JavaScript
 * **Módulo:** Lógica de programação: explore funções e listas
@@ -19,6 +21,9 @@
 * **HTML e CSS:** Cabeçalho, footer e variáveis CSS
 * **HTML e CSS:** Trabalhando com responsividade e publicação de projetos
 * **Git e Github:** Compartilhando e colaborando em projetos
+
+![Certificado - Iniciante em Programação T7 - ONE](https://github.com/user-attachments/assets/63911ef5-63d2-402f-b31b-d79784d81f29)
+
 
 ### Desafio Challenge: Decodificador de texto concluído
 
@@ -31,23 +36,25 @@
 
 ### Formações:
 
-- Formação em Empreendedorismo, Agilidade e Protagonismo na Carreira G7
+#### Formação em Empreendedorismo, Agilidade e Protagonismo na Carreira G7 - Concluído
 
-* **Módulo:**Desenvolvimento de carreira: a demanda do mercado
-* **Módulo:**Propósito profissional: seja protagonista da sua carreira
-* **Módulo:**Transição de carreira: um guia para a área da tecnologia
-* **Módulo:**Gestão Ágil: explorando conceitos da agilidade
-* **Módulo:**Empreendedorismo: da ideia ao plano de negócios
+* **Módulo:** Desenvolvimento de carreira: a demanda do mercado
+* **Módulo:** Propósito profissional: seja protagonista da sua carreira
+* **Módulo:** Transição de carreira: um guia para a área da tecnologia
+* **Módulo:** Gestão Ágil: explorando conceitos da agilidade
+* **Módulo:** Empreendedorismo: da ideia ao plano de negócios
 
-- Front-End G7 | ONE
+![Certificado - Formação em Empreendedorismo,  Agilidade e Protagonismo na Carreira - ONE](https://github.com/user-attachments/assets/8c9ef3d4-0299-48af-9fb6-f21881f4b0a4)
 
-* **Módulo Concluído:**
+### Front-End G7 | ONE
 
-- IA generativa no Front-end: trabalhando com acessibilidade, semântica e HTML.
+#### Módulo Concluído:
 
-* **Módulos em Desenvolvimento:**
+* **IA generativa no Front-end: trabalhando com acessibilidade, semântica e HTML.**
 
-- CSS: Flexbox e layouts responsivos
+#### Módulos em Desenvolvimento:
+
+* **CSS: Flexbox e layouts responsivos.**
 
 ---
 
