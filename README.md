@@ -1,4 +1,4 @@
-<h1 align="center">Programa ONE | Turme T7 | Oracle Next Education 2024 | Oracle & Alura</h1>
+<h1 align="center">Programa ONE | Turma T7 | Oracle Next Education 2024 | Oracle & Alura</h1>
 
 ## Formações Iniciais: 
 
