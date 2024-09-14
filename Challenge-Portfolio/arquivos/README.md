@@ -1,0 +1,29 @@
+<div align="center">
+  <h1>Portfólio de Lucas E. Dickmann</h1>
+  <h2>Portfólio com conteúdo ampliado para publicação também como parte do programa Oracle ONE - Turma T7.</h2>
+  <h3>Módulo: Praticando Front End: Challenge Portfólio</h3>
+</div>
+
+---
+
+## Linguagens e Bibliotecas
+
+* HTML, CSS, Javascript e Bootstrap.
+
+## Ferramentas, Versionamento e Deploy.
+* GitHub, Npm e VS Code.
+
+---
+
+## Dependências
+
+* **tsParticles** - TypeScript Particles
+
+### Integração das SECTIONS Soft Skills e Projetos - 13/09/2024
+* **Integração e atualização feita para o Programa Oracle ONE - Módulo: Challenge Portfólio**
+
+## Deploy no Github
+
+Link: ldickmann.github.io/
+
+### Badge Challenge
