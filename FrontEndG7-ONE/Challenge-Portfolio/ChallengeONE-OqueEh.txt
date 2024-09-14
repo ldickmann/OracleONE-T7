@@ -1,0 +1,39 @@
+## Tópico retirado do módulo em questãi que trata de Perguntas Frequentes que aborda o que é/são o(s) Challenge(s) ().
+
+O que são os Challenges ONE?
+
+É uma forma de implementar o Challenge Based Learning, ou seja, aprendizado baseado em 
+desafios que a Apple ajudou a criar. É um mecanismo onde você pode se comprometer na 
+resolução de um problema para depois investigar soluções com cursos, conteúdo e palestras; 
+ou até mesmo com o conhecimento que você já tem! Finalmente, você vai agir e colocar o seu projeto no ar. 
+Tudo isso enquanto comenta e ajuda em projetos de outros alunos e alunas.
+
+
+Se eu tiver dúvidas, com quem posso falar?
+
+No nosso grupo oficial do Discord, temos canais específicos para os Challenges. Lá você poderá 
+consultar suas dúvidas com os instrutores e instrutoras e com o resto dos participantes. 
+Também teremos Lives de mentoria "Alura responde" durante os desafios para consultar as principais dúvidas.
+
+
+Obterei um certificado?
+
+Uma vez realizada a entrega do seu projeto, você poderá baixar o seu certificado e a badge 
+referente ao mesmo, que deverá compartilhar em suas redes profissionais como LinkedIn, 
+etiquetando a Oracle e a Alura Latam. Lembre-se que os Challenges são parte integral do 
+programa ONE e seu objetivo é criar projetos incríveis e incluí-los no seu portfólio para 
+demonstrar suas habilidades.
+
+
+Quais materiais ou ferramentas preciso instalar para realizar o curso?
+
+Todas as etapas dos Challenges terão especificações diferentes que iremos avisando conforme 
+os desafios forem liberados. Te guiaremos durante todo o processo para que você possa 
+finalizar o seu projeto sem preocupações.
+
+
+Como saberei sobre os novos desafios?
+
+Enviaremos e-mails de lembrete toda vez que um novo desafio ou Live estiver próximo de começar. 
+É importante verificar frequentemente as pastas de Spam, Promoções e Social no seu e-mail. 
+Às vezes, os e-mails podem ir para lá.
