@@ -52,10 +52,11 @@
 
 * **IA generativa no Front-end: trabalhando com acessibilidade, semântica e HTML.**
 * **CSS: Flexbox e layouts responsivos.**
+* **Curso Praticando Front End: Challenge Portfólio.**
 
 #### Módulo em Desenvolvimento:
 
-* **Curso de:** Praticando Front End: Challenge Portfólio
+* **Curso de:** JavaScript para Web: Crie páginas dinâmicas
 
 ---
 
