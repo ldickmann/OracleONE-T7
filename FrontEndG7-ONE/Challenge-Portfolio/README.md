@@ -24,7 +24,7 @@
 
 ## Deploy no Github
 
-Link: ldickmann.github.io/
+Link da page: https://ldickmann.github.io/
 
 ### Badge Challenge
 
