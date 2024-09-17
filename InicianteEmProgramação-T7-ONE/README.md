@@ -28,8 +28,8 @@
 
 ### Desafio Challenge: Decodificador de texto concluído
 
-- Link do repositório: https://github.com/ldickmann/Challenge-ONE-2024
-- Link do decodificador: https://ldickmann.github.io/Challenge-ONE-2024/
+- Link do repositório: https://github.com/ldickmann/Challenge-ONE-Encriptador
+- Link do decodificador: https://ldickmann.github.io/Challenge-ONE-Encriptador/
 
 ### Minhas redes sociais
 
