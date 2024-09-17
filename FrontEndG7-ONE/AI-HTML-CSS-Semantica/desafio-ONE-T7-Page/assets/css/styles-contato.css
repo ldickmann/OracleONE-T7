@@ -18,6 +18,10 @@
     color: var(--Branco, #FFF);
 }
 
+#titulo__inicio {
+    margin-top: -10%;
+}
+
 p {
     font-family: Montserrat;
 }
