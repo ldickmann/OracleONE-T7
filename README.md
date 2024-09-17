@@ -48,14 +48,14 @@
 
 ### Front-End G7 | ONE
 
-#### Cursos Concluídos:
+#### Módulos Concluídos:
 
 * **IA generativa no Front-end: trabalhando com acessibilidade, semântica e HTML.**
 * **CSS: Flexbox e layouts responsivos.**
 * **Curso Praticando Front End: Challenge Portfólio.**
 * **Curso de JavaScript para Web: Crie páginas dinâmicas.**
 
-#### Curso em Desenvolvimento:
+#### Módulo em Desenvolvimento:
 
 * **Curso de** JavaScript: manipulando elementos no DOM.
 
