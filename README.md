@@ -54,10 +54,11 @@
 * **CSS: Flexbox e layouts responsivos.**
 * **Praticando Front End: Challenge Portfólio.**
 * **JavaScript para Web: Crie páginas dinâmicas.**
+* **JavaScript: manipulando elementos no DOM.**
 
 #### Curso em Desenvolvimento:
 
-* **JavaScript:** manipulando elementos no DOM.
+* **Curso de:** ChatGPT e JavaScript: construa o jogo Pong.
 
 ---
 
