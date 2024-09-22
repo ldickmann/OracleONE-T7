@@ -30,44 +30,12 @@
 - Link do repositório: https://github.com/ldickmann/Challenge-ONE-Encriptador
 - Link do decodificador: https://ldickmann.github.io/Challenge-ONE-Encriptador/
 
----
-
-## Fase 3 do ONE - Especialização Front-End
-
-### Formações:
-
-#### Formação em Empreendedorismo, Agilidade e Protagonismo na Carreira G7 - Concluído
-
-* **Módulo:** Desenvolvimento de carreira: a demanda do mercado
-* **Módulo:** Propósito profissional: seja protagonista da sua carreira
-* **Módulo:** Transição de carreira: um guia para a área da tecnologia
-* **Módulo:** Gestão Ágil: explorando conceitos da agilidade
-* **Módulo:** Empreendedorismo: da ideia ao plano de negócios
-
-![Certificado - Formação em Empreendedorismo,  Agilidade e Protagonismo na Carreira - ONE](https://github.com/user-attachments/assets/8c9ef3d4-0299-48af-9fb6-f21881f4b0a4)
-
-### Front-End G7 | ONE
-
-#### Cursos Concluídos:
-
-* **IA generativa no Front-end: trabalhando com acessibilidade, semântica e HTML.**
-* **CSS: Flexbox e layouts responsivos.**
-* **Praticando Front End: Challenge Portfólio.**
-* **JavaScript para Web: Crie páginas dinâmicas.**
-* **JavaScript: manipulando elementos no DOM.**
-
-#### Curso em Desenvolvimento:
-
-* **Curso de:** ChatGPT e JavaScript: construa o jogo Pong.
-
----
-
 ## Diretórios
 
-* Os diretórios estão divididos em Formação Inicial (Iniciante em Programação T7 ONE) e a 3ª e atual fase (Front-End G7 ONE).
-* Dentro dos diretórios cada pasta é um módulo de uma determinada formação.
+* Os diretórios estão divididos conforme os cursos feitos durante a formação Iniciante em Programação T7 Oracle ONE.
 * Também existem os diretórios dos desafios.
 * Determinados módulos tem exercícios, onde está especificado por numeração crescente a ordem dos mesmos.
+
 
 ### Minhas redes sociais
 
