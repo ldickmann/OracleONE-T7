@@ -1,4 +1,4 @@
-<h1 align="center">Programa ONE | Turma T7 | Oracle Next Education 2024 | Oracle & Alura</h1>
+<h1 align="center">Programa ONE | Turma G7 | Oracle Next Education 2024 | Oracle & Alura</h1>
 
 ## Formações Iniciais: 
 
@@ -9,9 +9,9 @@
 * **Módulo:** Foco: trazendo mais resultados para o dia a dia
 * **Módulo:** Hábitos: da produtividade às metas pessoais
 
-![Certificado - Desenvolvimento Pessoal T7 - ONE](https://github.com/user-attachments/assets/c37b84b3-7067-4920-b85d-22992ada4e6d)
+![Certificado - Desenvolvimento Pessoal - ONE](https://github.com/user-attachments/assets/c37b84b3-7067-4920-b85d-22992ada4e6d)
 
-#### Formação Iniciante em Programação T7 - Concluído
+#### Formação Iniciante em Programação - Concluído
 
 * **Módulo:** Lógica de programação: mergulhe em programação com JavaScript
 * **Módulo:** Lógica de programação: explore funções e listas
@@ -22,7 +22,7 @@
 * **HTML e CSS:** Trabalhando com responsividade e publicação de projetos
 * **Git e Github:** Compartilhando e colaborando em projetos
 
-![Certificado - Iniciante em Programação T7 - ONE](https://github.com/user-attachments/assets/63911ef5-63d2-402f-b31b-d79784d81f29)
+![Certificado - Iniciante em Programação - ONE](https://github.com/user-attachments/assets/63911ef5-63d2-402f-b31b-d79784d81f29)
 
 
 ### Desafio Challenge: Decodificador de texto concluído
@@ -32,7 +32,7 @@
 
 ## Diretórios
 
-* Os diretórios estão divididos conforme os cursos feitos durante a formação Iniciante em Programação T7 Oracle ONE.
+* Os diretórios estão divididos conforme os cursos feitos durante a formação Iniciante em Programação Oracle ONE.
 * Também existem os diretórios dos desafios.
 * Determinados módulos tem exercícios, onde está especificado por numeração crescente a ordem dos mesmos.
 
